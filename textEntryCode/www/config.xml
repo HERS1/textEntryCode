@@ -6,13 +6,13 @@
         id        = "mob.app.dev.navigation"
         version   = "1.0.0">
 
-    <name>Navigation Example</name>
+    <name>Vibration, True or False</name>
 
     <description>
-        A sample application that demostrates mobiel navigation.
+        A sample application that demonstrates vibrating
     </description>
 
-    <author href="worcester.ac.uk" email="c.bowers@worc.ac.uk">
+    <author href="worcester.ac.uk" email="HERS1_16@uni.worc.ac.uk">
         WBS Computing
     </author>
 
